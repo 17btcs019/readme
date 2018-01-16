@@ -1,0 +1,2 @@
+#myfirstprogram
+print("amulya")
